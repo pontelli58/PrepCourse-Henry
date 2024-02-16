@@ -1,1 +1,1 @@
-Creando mi primer commit y repositorio 
+Creando mi primer commit y repositorio de ejemplo
